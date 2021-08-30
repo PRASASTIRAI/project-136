@@ -1,0 +1,25 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width: 100%;
+    border: 5px solid palegreen;
+    font-size:25px;
+    box-shadow:8px 8px 12px red;
+}
+
+#footer_div{
+    position:fixed;
+    background-color: rgb(250, 208, 239);
+    width:100%;
+    color: darkred;
+    text-align: center;
+    bottom:0;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 25px;
+    box-shadow:8px 8px 12px grey;
+    margin-top:80px;
+}
